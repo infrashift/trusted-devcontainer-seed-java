@@ -7,6 +7,7 @@
   "updateRemoteUserUID": false,
   "features": {
     "ghcr.io/infrashift/trusted-devcontainer-features/bootstrap@sha256:a89deccc3b7e0787a0f2db3dbdc25d75584e1d5d0bf5704f1cd3f647a37fd022": {},
+        "ghcr.io/infrashift/trusted-devcontainer-features/make@sha256:22e0f07f3b69d93b1dc9c85b09020021c194cf4a76094ed88dbcc73dcb588a85": {},
     "ghcr.io/infrashift/trusted-devcontainer-features/openjdk@sha256:c8f4844a4c790ed31d8c9930c14aa79ec3ff2f38e4c46a6e32b4f4e925c9fe59": {},
     "ghcr.io/infrashift/trusted-devcontainer-features/maven@sha256:ddd5bdc1f47c01b9077218294e457ed5cf754f3ff1de971c2fbc231e5dadc83b": {},
     "ghcr.io/infrashift/trusted-devcontainer-features/gradle@sha256:dc87e5f4c2dab9e93459dffeda6295abbd0dda3f6e1e50e98ccff97dbd15f4a9": {},
